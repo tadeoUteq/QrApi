@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/tadeo/.dotnet/store/|arch|/|tfm|",
+      "/home/tadeo/.nuget/packages"
+    ]
+  }
+}
